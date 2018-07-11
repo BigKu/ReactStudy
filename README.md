@@ -4,6 +4,11 @@
 
  ## 1. Todo-list 만들기
 
- * 컴포넌트 구성
+ * 컴포넌트 구성 (TodoListTemplate, TodoItem, TodoItemList, Form)
  * 상태관리 하기
  * 컴포넌트 최적화 하기
+
+ ## 2. Palette 만들기
+
+ * 컴포넌트 구성 (Palette)
+ 
