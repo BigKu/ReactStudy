@@ -8,7 +8,6 @@ const colors = ['#343a40', '#f03e3e', '#12b886', '#228ae6'];
 
 class App extends Component {
   id = 3
-  num = 4
 
   state = {
     input: '',
